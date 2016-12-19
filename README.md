@@ -1,9 +1,9 @@
 # DeepID-I-Reimplement
 Re-implement DeepID on Caffe framework.
 
-Training Set: CASIA WebFace  (Washed)<br>
-Validation Set: LFW  (6K Pairs)<br>
-Accuracy @LFW:  91.9667%<br>
+Training Set: CASIA WebFace [croped to 144x144] Gray (Washed)<br>
+Validation Set: LFW [croped to 128x128] Gray (6K Pairs)<br>
+Accuracy @LFW:  `91.9667%`<br>
 
 ### Pre-trained Caffemodel:
 CHN : [Baidu Pan](https://pan.baidu.com/s/1dETmLLR)<br>
