@@ -7,7 +7,7 @@ import sklearn.metrics.pairwise as pw
 import math
 
 #  sys.path.insert(0, '/Downloads/caffe-master/python');
-#  load Caffe model
+#  load Caffe model 
 
 caffe.set_mode_gpu();
 
