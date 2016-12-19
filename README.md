@@ -6,7 +6,7 @@ Validation Set: LFW `cropped to 128x128` Gray (6K Pairs)<br>
 Accuracy @LFW:  `91.9667%`<br>
 
 ### Pre-trained Caffemodel:
-CHN : [Baidu Pan](https://pan.baidu.com/s/1dETmLLR)<br>
+CHN : [Baidu Pan](https://pan.baidu.com/s/1pKUVgPd)<br>
 Other country: One Dirve<br>
 
 ### Related Blog:
