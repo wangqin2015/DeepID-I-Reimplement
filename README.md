@@ -7,7 +7,7 @@ Accuracy @LFW:  `91.9667%`<br>
 
 ### Pre-trained Caffemodel:
 CHN : [Baidu Pan](https://pan.baidu.com/s/1pKUVgPd)<br>
-Other country: [One Dirve](https://1drv.ms/u/s!Av1MQK8mV3J8bP9is3GBhpyCySw)<br>
+Other country: [One Drive](https://1drv.ms/u/s!Av1MQK8mV3J8bP9is3GBhpyCySw)<br>
 
 ### Related Blog:
 [CSDN](http://blog.csdn.net/baidu_24281959/article/details/53462168)<br>
