@@ -37,9 +37,9 @@ def read_image(filepath, mean_blob):
     image = skimage.transform.resize(im, (128, 128))*255;
     mean_blob.shape = (-1, 1); 
     mean = np.sum(mean_blob) / len(mean_blob);
-    X[0,0,:,:] = image[:,:] - mean;
-    X[0,1,:,:] = image[:,:] - mean;
-    X[0,2,:,:] = image[:,:] - mean;
+    X[0,0,:,:] = image[:,:,0] - mean; 
+    X[0,1,:,:] = image[:,:,1] - mean; 
+    X[0,2,:,:] = image[:,:,2] - mean;
     return X;
 
 if __name__ == '__main__':
