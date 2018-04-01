@@ -7,12 +7,11 @@ Re-implementation of DeepID on Caffe framework.<br>
   * ...
 
 #### Our Work:
-Training Set: CASIA WebFace `cropped to 144x144` Gray (Washed)<br>
-Validation Set: LFW `cropped to 128x128` Gray (6K Pairs)<br>
-Accuracy @LFW:  `91.9667%`<br>
-*It won't be necessary to create a validation set on WebFace. You may get a higher precision on LFW with a larger training data set.*
-
-[Network Structure](http://ethereon.github.io/netscope/#/gist/5b46e36eb7c92c95798afde3bec4e780)<br>
+- Training Set: CASIA WebFace `cropped to 144x144` Gray (Washed)<br>
+- Validation Set: LFW `cropped to 128x128` Gray (6K Pairs)<br>
+- Accuracy @LFW:  `91.9667%`<br>
+  - *It won't be necessary to create a validation set on WebFace. You may get a higher precision on LFW with a larger training data set.*
+- [Network Structure](http://ethereon.github.io/netscope/#/gist/5b46e36eb7c92c95798afde3bec4e780)<br>
 
 #### Pre-trained Caffemodel:
 CHN : [Baidu Pan](https://pan.baidu.com/s/1pKUVgPd)<br>
